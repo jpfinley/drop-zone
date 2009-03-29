@@ -1,4 +1,5 @@
-#wrap { background-color: #ccc; }
+/* these things are here for effect only */
 
-#main { background-color: lightgreen;}
-#footer { background-color: pink;}
+#wrap { background-color: #ccc; }
+#main { background-color: #90ee90;}
+#footer { background-color: #ffc0cb;}
